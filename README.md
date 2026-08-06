@@ -1,3 +1,3 @@
-- Hi, I’m Berny. I’m interested in Software Engineering, working out, brazilian jiu-jitsu and anime
+- Hi, I’m Berny. I like coding, working out, and one piece.
 
-- Currently working with .NET, Angular, Azure, and using Next.js, Astro, Convex, AWS, Vercel, Tailwind for my personal projects.
+- Working with .NET, Azure, NextJS
